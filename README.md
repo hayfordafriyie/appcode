@@ -13,7 +13,7 @@ Shopyie serves as the final portfolio project of Hayford Afriyie at ALX Software
 
 ## Setup Instructions
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/shopyie.git`
+1. **Clone the Repository**: `git clone https://github.com/hayfordafriyie/shopyie.git`
 
 2. **Install Dependencies**: 
    - Navigate to the `backend` directory: `cd backend` 
