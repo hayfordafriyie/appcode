@@ -1,1 +1,1 @@
-@copyright by HAfriSys. 2024
+@copyright by Hayford Afriyie. 2024. ALX SE Programme
