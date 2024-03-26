@@ -9,8 +9,6 @@ Shopyie serves as the final portfolio project of Hayford Afriyie at ALX Software
 ---
 
 
-Got it! Here's the updated setup instructions section to accommodate the additional directories:
-
 ---
 
 ## Setup Instructions
